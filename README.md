@@ -6,4 +6,4 @@ Description:蓝色圈圈代表玩家，黄色圈圈代表朋友，红色圈圈�
 
 Operation：蓝色圈圈跟随鼠标移动
 
-link：https://scratch.mit.edu/projects/220736808/
+link：https://scratch.mit.edu/projects/222491833/
